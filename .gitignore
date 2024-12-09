@@ -1,0 +1,3 @@
+node_modules/
+.env  # Agrega también esto para que tu archivo .env no se suba a Git
+*.log  # Ejemplo para ignorar archivos de log
